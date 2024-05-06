@@ -1,4 +1,9 @@
-# RealtimeSentimentAnalysis
+# Realtime Sentiment Analysis of YT comments using Spark and Kafka
+
+Group 3:
+- Shubham Gupta (202318052)
+- Riya Dave (202318011)
+- Mayan Bhut (202318043)
 
 ## Project Structure
 ![WhatsApp Image 2024-05-06 at 23 15 37_796fb6da](https://github.com/shgupta1461/BDP_Project/assets/64950073/2ca34ea6-57ac-427b-a44b-e775f3d34a1d)
